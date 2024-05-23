@@ -16,7 +16,7 @@ This repository contains the code for an admin dashboard that lists book records
 
 ## Installation
 ## Setting up the project
-1. Clone the repository to your local machine.``https://github.com/saurabh78crypto/nua-assignment.git``
+1. Clone the repository to your local machine: ``https://github.com/saurabh78crypto/nua-assignment.git``
 2. Navigate to the project directory: ``cd admin-dashboard``
 3. Install dependencies: ``npm install``
 4. Start the application: ``npm start``
