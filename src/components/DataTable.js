@@ -4,7 +4,7 @@ import { dataToCsv } from '../utils/csvUtils';
 
 
 const DataTable = ({ columns, data, loading }) => {
-  const [pagination, setPagination] = useState({ pageIndex: 0, pageSize: 10});
+  const [pagination] = useState({ pageIndex: 0, pageSize: 10});
   // const [recordCount, setRecordCount] = useState(10);
   const tableRef = useRef();
 
