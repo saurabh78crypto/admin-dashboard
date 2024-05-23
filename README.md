@@ -15,22 +15,14 @@ This repository contains the code for an admin dashboard that lists book records
 - Basic understanding of React and JavaScript
 
 ## Installation
-1. Clone the repository to your local machine.
-``
-https://github.com/saurabh78crypto/nua-assignment.git
-``
-2. Navigate to the project directory.
-``
-cd admin-dashboard
-``
-3. Install dependencies
-``
-npm install
-``
-4. Start the application
-``
-npm start
-``
+## Setting up the project
+1. Clone the repository to your local machine.``https://github.com/saurabh78crypto/nua-assignment.git``
+2. Navigate to the project directory: ``cd admin-dashboard``
+3. Install dependencies: ``npm install``
+4. Start the application: ``npm start``
 
 ## Usage 
 Upon starting the application, navigate to ``http://localhost:3000`` in your web browser to access the admin dashboard.
+
+## Deployment
+The application is deployed on Netlify. You can access the live application at ``https://main--silver-sprite-53e641.netlify.app/``.
